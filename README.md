@@ -1,5 +1,4 @@
-
-# AI-Powered Hospital Management System
+# MediCare Pro - AI-Powered Hospital Management System
 
 A comprehensive, full-stack hospital management platform built with modern web technologies, featuring AI-driven medical insights, real-time patient monitoring, and intelligent appointment scheduling.
 
@@ -191,8 +190,8 @@ GET    /api/ai/insights/:patient  // Get AI-generated insights
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hospital-management-system.git
-cd hospital-management-system
+git clone https://github.com/yourusername/medicare-pro-hospital-management.git
+cd medicare-pro-hospital-management
 
 # Install dependencies
 npm install
@@ -288,12 +287,12 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Developer
 
-**[Aditya Mishra]**
-- Full-Stack Developer specializing in healthcare technology
+**MediCare Pro Development Team**
+- Full-Stack Developers specializing in healthcare technology
 - Expert in React, TypeScript, Node.js, and MongoDB
 - Passionate about AI integration and healthcare innovation
 
-**Email**: [adm0204adg@gmail.com]
+**Contact**: [contact@medicare-pro.com]
 
 ---
 
